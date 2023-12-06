@@ -1,7 +1,3 @@
-# LS09
-Things I have done or documented for LS09
-
-Includes:
-Mods by me
-Tools for mods/modding by me
-LS modding script librairy
+# Script librairy
+All scripts i could find used in legacy LS-modding.
+Includes ones i've made and edited.
