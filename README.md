@@ -6,5 +6,5 @@ Mods by me
 Tools for mods/modding by me
 LS modding script librairy
 
-> [!WARNING]
+> [!IMPORTANT]
 > This repository has been migrated. Find the up to date version on [Codeberg](https://codeberg.org/Kippari2/LS09).
